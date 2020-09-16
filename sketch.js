@@ -74,7 +74,7 @@ background("green");
   
   }
   
-  if (keyWentDown("up")&& monkey.y >= 350){
+  if (keyWentDown("space")&& monkey.y >= 350){
       
   monkey.velocityY=-15;   
   
